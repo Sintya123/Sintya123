@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, welcome to my profile  👋
+
+Hello I am a developer
 
 <!--
 **Sintya123/Sintya123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

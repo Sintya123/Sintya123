@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Muna Sintya E.P</h1>
-<h3 align="center">A passionate Android developer from Indonesia</h3>
+<h1 align="center">Hi 👋, I'm Muna Sintya </h1>
+<h3 align="center">A Passionate Android Developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sintya123&label=Profile%20views&color=0e75b6&style=flat" alt="sintya123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sintya123" alt="sintya123" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h3 align="left">About me:</h3>
 
 - 🌱 I’m currently learning **Kotlin,Bootstrap,MySQL**
 
